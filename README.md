@@ -11,3 +11,4 @@ hgaToPsia(hga) returns barametric pressure of altitude
 npm run test
 checks max, min, number, 1000 feet, -1600 feet (lowest), -1700 feet (return same as -1600)
 
+updated
