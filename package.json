@@ -1,0 +1,21 @@
+{
+  "name": "airproperties",
+  "version": "0.0.1",
+  "description": "properties of air",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter list"
+  },
+  "keywords": [
+    "humidity",
+    "drybulb",
+    "wetbulb"
+  ],
+  "author": "John Geffe",
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
