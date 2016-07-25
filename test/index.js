@@ -1,8 +1,8 @@
 var expect = require('chai').expect;
 var should = require('chai').should();
 var assert = require('chai').assert;
-
 var AirProperties = require('../index');
+
 elevToPsia = AirProperties.elevToPsia;
 hgaToPsia = AirProperties.hgaToPsia;
 barometricConvert = AirProperties.barometricConvert;
